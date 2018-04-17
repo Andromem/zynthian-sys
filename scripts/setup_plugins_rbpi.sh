@@ -67,10 +67,10 @@ bash $ZYNTHIAN_RECIPE_DIR/install_infamous.sh
 bash $ZYNTHIAN_RECIPE_DIR/install_padthv1.sh
 
 # dcoredump Stuff
-bash $ZYNTHIAN_RECIPE_DIR/install_lvtk.sh
-bash $ZYNTHIAN_RECIPE_DIR/install_dxsyx.sh
-#bash $ZYNTHIAN_RECIPE_DIR/install_deeaxe7.sh
-bash $ZYNTHIAN_RECIPE_DIR/install_dexed_dcoredump.sh
+#bash $ZYNTHIAN_RECIPE_DIR/install_lvtk.sh
+#bash $ZYNTHIAN_RECIPE_DIR/install_dxsyx.sh
+##bash $ZYNTHIAN_RECIPE_DIR/install_deeaxe7.sh
+#bash $ZYNTHIAN_RECIPE_DIR/install_dexed_dcoredump.sh
 
 bash $ZYNTHIAN_RECIPE_DIR/postinstall_mod-lv2-data.sh
 
